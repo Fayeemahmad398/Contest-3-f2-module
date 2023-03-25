@@ -1,0 +1,172 @@
+[
+  {
+    "title": "zadam /\n\n      trilium",
+    "description": "Build your personal knowledge base with Trilium Notes",
+    "star": "20,453",
+    "fork": "1,337",
+    "language": "JavaScript"
+  },
+  {
+    "title": "zahidkhawaja /\n\n      langchain-chat-nextjs",
+    "description": "Next.js frontend for LangChain Chat.",
+    "star": "267",
+    "fork": "60",
+    "language": "JavaScript"
+  },
+  
+  {
+    "title": "jhu-ep-coursera /\n\n      fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "star": "9,293",
+    "fork": "11,285",
+    "language": "JavaScript"
+  },
+  {
+    "title": "pcottle /\n\n      learnGitBranching",
+    "description": "An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!",
+    "star": "26,984",
+    "fork": "5,504",
+    "language": "JavaScript"
+  },
+  {
+    "title": "swagger-api /\n\n      swagger-ui",
+    "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+    "star": "23,608",
+    "fork": "8,637",
+    "language": "JavaScript"
+  },
+  {
+    "title": "ajaxorg /\n\n      ace",
+    "description": "Ace (Ajax.org Cloud9 Editor)",
+    "star": "25,495",
+    "fork": "5,264",
+    "language": "JavaScript"
+  },
+  {
+    "title": "nolimits4web /\n\n      swiper",
+    "description": "Most modern mobile touch slider with hardware accelerated transitions",
+    "star": "34,584",
+    "fork": "9,694",
+    "language": "JavaScript"
+  },
+  {
+    "title": "therealgliz /\n\n      blooket-hacks",
+    "description": "Multiple game hacks to use so the game become easier to play!",
+    "star": "708",
+    "fork": "2,433",
+    "language": "JavaScript"
+  },
+  {
+    "title": "strapi /\n\n      strapi",
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
+    "star": "52,652",
+    "fork": "6,392",
+    "language": "JavaScript"
+  },
+  {
+    "title": "mholt /\n\n      PapaParse",
+    "description": "Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+    "star": "11,226",
+    "fork": "1,126",
+    "language": "JavaScript"
+  },
+  {
+    "title": "ruanyf /\n\n      es6tutorial",
+    "description": "《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。",
+    "star": "20,565",
+    "fork": "8,944",
+    "language": "JavaScript"
+  },
+  {
+    "title": "nasa /\n\n      openmct",
+    "description": "A web based mission control framework.",
+    "star": "10,752",
+    "fork": "1,192",
+    "language": "JavaScript"
+  },
+  {
+    "title": "react-grid-layout /\n\n      react-grid-layout",
+    "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
+    "star": "17,354",
+    "fork": "2,349",
+    "language": "JavaScript"
+  },
+  {
+    "title": "louislam /\n\n      uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "star": "31,223",
+    "fork": "2,642",
+    "language": "JavaScript"
+  },
+  {
+    "title": "FastForwardTeam /\n\n      FastForward",
+    "description": "Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.",
+    "star": "2,355",
+    "fork": "233",
+    "language": "JavaScript"
+  },
+  {
+    "title": "PavelDoGreat /\n\n      WebGL-Fluid-Simulation",
+    "description": "Play with fluids in your browser (works even on mobile)",
+    "star": "13,124",
+    "fork": "1,500",
+    "language": "JavaScript"
+  },
+  {
+    "title": "node-red /\n\n      node-red",
+    "description": "Low-code programming for event-driven applications",
+    "star": "16,356",
+    "fork": "3,038",
+    "language": "JavaScript"
+  },
+  {
+    "title": "OpenDriveLab /\n\n      UniAD",
+    "description": "[CVPR 2023 Award Candidate] Planning-oriented Autonomous Driving",
+    "star": "2,424",
+    "fork": "939",
+    "language": "JavaScript"
+  },
+  {
+    "title": "dundunnp /\n\n      auto_xuexiqiangguo",
+    "description": "学习强国 每日拿满61分！免root 四人赛双人对战秒答 自动化脚本",
+    "star": "740",
+    "fork": "169",
+    "language": "JavaScript"
+  },
+  {
+    "title": "bestony /\n\n      ChatGPT-Feishu",
+    "description": "给飞书准备的 ChatGPT 机器人",
+    "star": "2,938",
+    "fork": "2,048",
+    "language": "JavaScript"
+  },
+  {
+    "title": "TechXueXi /\n\n      techxuexi-js",
+    "description": "油猴等插件的 学习强国 js 代码 45分/天",
+    "star": "104,810",
+    "fork": "23,295",
+    "language": "JavaScript"
+  },
+  {
+    "title": "d3 /\n\n      d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "star": "28,517",
+    "fork": "18,219",
+    "language": "JavaScript"
+  },
+  {
+    "title": "odoo /\n\n      odoo",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "star": "307",
+    "fork": "88",
+    "language": "JavaScript"
+  },
+  {
+    "title": "github /\n\n      safe-settings",
+    "description": "a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.",
+    "star": "2,482",
+    "fork": "442",
+    "language": "JavaScript"
+  },
+  { "title": "microfeed /\n\n      microfeed" }
+]

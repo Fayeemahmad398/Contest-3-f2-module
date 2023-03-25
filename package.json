@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^19.7.5",
+    "request": "^2.88.2"
+  },
+  "name": "html.faheem",
+  "version": "1.0.0",
+  "main": "cipher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
